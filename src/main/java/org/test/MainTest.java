@@ -1,10 +1,10 @@
 package org.test;
 
 public class MainTest {
-	public static void main(String[] args) {
-		
-		
-		
+	public static void main(String[] args) {	
+		System.out.println("Test1");
+		System.out.println("Test2");
+		System.out.println("Test3");
 		
 		
 	}	
